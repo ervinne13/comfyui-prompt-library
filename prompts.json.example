@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "name": "My Custom Workflow",
+    "prompt": "Korean lady wearing white dress standing near a window, soft morning light, cozy bedroom, warm pastel tones, single photo",
+    "negative": "collage, grid, multiple panels, split screen, diptych, triptych, contact sheet, multiple views, duplicate subject, 2girls, group"
+  }
+]
