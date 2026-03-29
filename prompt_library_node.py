@@ -127,7 +127,7 @@ class PromptLibraryExtraNode:
         except Exception:
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 
-        name_slug = "_".join([p for p in [base_slug, timestamp] if p])
+        name_slug = "_".join([p for p in [timestamp, base_slug] if p])
 
         print(f"""
             [PromptLibraryExtra]
